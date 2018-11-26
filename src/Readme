@@ -1,0 +1,31 @@
+---------------------------- READ ME --------------------------
+
+This is a readme file containing instructions for executing code for
+Short Project 12: Finding Diameter of a Tree.
+
+
+@Authors:
+Mihir Hindocha: mxh170027
+Prit Thakkar: pvt170000
+
+Short Project 12: Finding Diameter of a Tree.
+Find diameter of a tree by running BFS algorithm twice.
+
+Instructions to execute code:
+
+The uploaded folder with name as my net id: mxh170027 contains ReadMe.txt, mxh170027 folder with java file "SP12.java"
+and folder rbk with "BFSOO.java" and "Graph.java".
+
+Steps for running code from cmd prompt:
+
+1. Compile the SP12.java by executing the following command
+> javac mxh170027/SP12.java
+
+2. Run the file
+> java mxh170027/SP12
+> java mxh170027/SP12 <input_graph> <int>
+
+Example:
+
+java mxh170027/SP12
+java mxh170027/SP12 10 9   1 2 2   1 3 3   2 4 5   2 5 4   3 6 1   3 7 1   4 8 1   7 9 1   7 10 1 1
